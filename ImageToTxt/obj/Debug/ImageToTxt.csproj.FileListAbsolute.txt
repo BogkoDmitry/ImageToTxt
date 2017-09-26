@@ -1,0 +1,10 @@
+D:\work\ImageToTxt\ImageToTxt\bin\Debug\ImageToTxt.exe.config
+D:\work\ImageToTxt\ImageToTxt\bin\Debug\ImageToTxt.exe
+D:\work\ImageToTxt\ImageToTxt\bin\Debug\ImageToTxt.pdb
+D:\work\ImageToTxt\ImageToTxt\obj\Debug\ImageToTxt.csprojResolveAssemblyReference.cache
+D:\work\ImageToTxt\ImageToTxt\obj\Debug\ImageToTxt.Form1.resources
+D:\work\ImageToTxt\ImageToTxt\obj\Debug\ImageToTxt.Properties.Resources.resources
+D:\work\ImageToTxt\ImageToTxt\obj\Debug\ImageToTxt.csproj.GenerateResource.Cache
+D:\work\ImageToTxt\ImageToTxt\obj\Debug\ImageToTxt.csproj.CoreCompileInputs.cache
+D:\work\ImageToTxt\ImageToTxt\obj\Debug\ImageToTxt.exe
+D:\work\ImageToTxt\ImageToTxt\obj\Debug\ImageToTxt.pdb
